@@ -60,10 +60,11 @@ document.querySelector('#submit').addEventListener('focus', function(e) {
 
 </script>
 
+
 <div class="page">
   <div class="container">
     <div class="right">
-      <div class="login">Olá, Seja Muito Bem vindo</div>
+      <div class="login">Bem vindo</div>
       <div class="eula">A inovação para sua empresa começa aqui!</div>
     </div>
     <div class="right">
